@@ -1,2 +1,2 @@
 # Learning-Modules
-ML,Stats,Python,AI,NLP,DL covered
+Topics related to ML,Stats,Python,AI,NLP,DL will be covered
